@@ -1,5 +1,5 @@
 ---
-marp: true
+
 theme: gaia
 paginate: true
 header: ""
